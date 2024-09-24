@@ -1,7 +1,0 @@
-8b7cd70e077fb5601e028494bdb0a169f768dcb2ac48687f0594266a80506939
-
-Cara Cek (Windows)
-1. Buka cmd dengan akses Administartor
-2. Beralih ke direktori penyimpanan (folder) file yang akan di cek
-3. Lihat nama file dan externsi, ketik di terminal "certutil -hashfile Metodologi_Penetration_Testing_with_NIST_Special_Publication_800-115.pdf sha256"
-4. Jika nilai hash yang tampil sama dengan nilai hash di sini itu artinya file tidak pernah dimodifikasi atau memiliki integritas.
